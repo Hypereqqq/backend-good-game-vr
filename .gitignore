@@ -1,9 +1,6 @@
 .env
 login_attempts.log
 
-
-
-
 # Logs
 logs
 *.log
